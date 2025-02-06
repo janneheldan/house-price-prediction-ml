@@ -10,10 +10,12 @@ git clone git@github.com:janneheldan/house-price-prediction-ml.git
 cd house-price-prediction-ml
 ```
 <br>
+
 ```bash
 pip install -r requirements.txt
 ```
 <br>
+
 ```bash
 jupyter lab house_price_prediction.ipynb
 ```
